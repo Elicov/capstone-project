@@ -85,3 +85,25 @@ using an ecommerce dataset, we were required to:
 );
 
 2. The injestion of the file was carried out using Dbeaver.
+3. These are the answers to the analytical questions.
+   The Answers to the Analytical Questions:
+1. Product Categories with the Highest Sales:
+   	- The top product categories by sales are:
+     	- Beleza Saude: $1,258,681.34.
+     	- Relogios Presentes: $1,205,005.68.
+     	- Cama Mesa Banho: $1,036,988.68.
+     	- Esporte Lazer: $988,048.97.
+     	- Informatica Acessorios: $911,954.32.
+
+
+2. Average Delivery Time for Orders:
+   - The average delivery time for orders is 12.1 days.
+
+3. States with the Highest Number of Orders:
+   - The top states by order count are:
+     - SP (São Paulo): 41,746 orders.
+     - RJ (Rio de Janeiro): 12,852 orders.
+     - MG (Minas Gerais): 11,635 orders.
+     - RS (Rio Grande do Sul): 5,466 orders.
+     - PR (Paraná): 5,045 orders.
+
